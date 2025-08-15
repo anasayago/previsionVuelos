@@ -86,9 +86,9 @@ Se analizó la importancia de las características para el modelo Random Forest.
 Se exploró cómo el rendimiento del modelo cambia al incluir un número creciente de las características más importantes, observándose la estabilidad de las métricas (`mse`, `mae`, `r2`) después de cierto punto.
 
 ## **Uso y ejecución del proyecto**
-Clona este repositorio.
-Abre el archivo optimizacion_aeroportuaria.ipynb en Jupyter Notebook o Google Colab.
-Ejecuta las celdas para reproducir la predicción del modelado
+* Clona este repositorio.
+* Abre el archivo optimizacion_aeroportuaria.ipynb en Jupyter Notebook o Google Colab.
+* Ejecuta las celdas para reproducir la predicción del modelado
 
 ## **Estructura del Repositorio**
 
