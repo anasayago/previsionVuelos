@@ -16,7 +16,8 @@ El proyecto utiliza un conjunto de librerías de Python para el análisis de dat
 ## **Conjunto de Datos**
 
 El análisis se realiza sobre un conjunto de datos cargado desde un archivo `flights.csv`.
-<img width="597" height="349" alt="Captura de pantalla 2025-08-15 a la(s) 9 09 06 p  m" src="https://github.com/user-attachments/assets/e8547ee3-ad13-4ea4-8ab0-1434a784fa89" />
+
+<img width="637" height="352" alt="Captura" src="https://github.com/user-attachments/assets/e4703d71-277e-4a5d-824c-97e61d4a3c60" />
 
 ## **Análisis Exploratorio de Datos (EDA)**
 
