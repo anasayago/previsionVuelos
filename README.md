@@ -1,6 +1,6 @@
 ## **Descripción del Proyecto**
 
-El objetivo principal de este proyecto es **desarrollar un modelo de regresión para predecir los retrasos en vuelos**. Esto implica analizar un conjunto de datos históricos de vuelos para identificar factores que influyen en los retrasos y construir un modelo predictivo capaz de estimar la duración de dichos retrasos. El análisis y modelado buscan contribuir a la **optimización de las operaciones aeroportuarias** [previsionVuelos/optimizacion_aeroportuaria.ipynb].
+El proyecto es un ejercicio practico de la epsecializacion en Data Science G8 de Alura y  el objetivo principal es **desarrollar un modelo de regresión para predecir los retrasos en vuelos**. Esto implica analizar un conjunto de datos históricos de vuelos para identificar factores que influyen en los retrasos y construir un modelo predictivo capaz de estimar la duración de dichos retrasos. El análisis y modelado buscan contribuir a la **optimización de las operaciones aeroportuarias** [previsionVuelos/optimizacion_aeroportuaria.ipynb].
 
 ## **Tecnologías y Librerías Utilizadas**
 
