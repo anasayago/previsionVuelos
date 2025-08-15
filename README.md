@@ -16,22 +16,7 @@ El proyecto utiliza un conjunto de librerías de Python para el análisis de dat
 ## **Conjunto de Datos**
 
 El análisis se realiza sobre un conjunto de datos cargado desde un archivo `flights.csv`.
-
-RangeIndex: 71175 entries, 0 to 71174
-Data columns (total 11 columns):
- #   Column          Non-Null Count  Dtype  
----  ------          --------------  -----  
- 0   flight_id       71175 non-null  int64  
- 1   airline         71175 non-null  object 
- 2   aircraft_type   71175 non-null  object 
- 3   schengen        71175 non-null  object 
- 4   origin          71175 non-null  object 
- 5   arrival_time    71175 non-null  float64
- 6   departure_time  71175 non-null  float64
- 7   day             71175 non-null  int64  
- 8   year            71175 non-null  int64  
- 9   is_holiday      71175 non-null  bool   
- 10  delay           71175 non-null  float64
+<img width="597" height="349" alt="Captura de pantalla 2025-08-15 a la(s) 9 09 06 p  m" src="https://github.com/user-attachments/assets/e8547ee3-ad13-4ea4-8ab0-1434a784fa89" />
 
 ## **Análisis Exploratorio de Datos (EDA)**
 
